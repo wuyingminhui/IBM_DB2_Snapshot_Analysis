@@ -1,4 +1,7 @@
 #Transfer snapshot.txt to stmt.txt
+# Build  :  1.0
+# Auther :  jason.woo(Wu yingmin)
+# Blog   :  www.futurehandw.com
 
 
 use strict;
