@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 
@@ -720,3 +721,18 @@ Summary.pl snapshot.txt</p>
   </body>
 </html>
 
+=======
+IBM_DB2_Snapshot_Analysis
+=========================
+
+IBM DB2 Snapshot Analyse tools
+
+This tool is used to analyse the db2 snapshot.txt.
+
+You should install perl first.
+
+Usage:
+Summary.pl snapshot.txt
+
+The output is a csv file. It includes all the metrics data for performance tuning.
+>>>>>>> 9c3117f908b70d9157119de08b8e648351e1ef82
